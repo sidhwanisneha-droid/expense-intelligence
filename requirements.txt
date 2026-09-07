@@ -1,0 +1,6 @@
+streamlit==1.52.2
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
